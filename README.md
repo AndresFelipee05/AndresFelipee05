@@ -8,6 +8,10 @@ Hola, soy Andrés Felipe, un estudiante de programación que le encanta la infor
 
 📫 Para contactar conmigo, puedes hablarme al siguiente correo: aba685106@iesirreymorcillo.es
 
+🌱 Un vídeo que me sirvió mucho: https://youtu.be/3GymExBkKjE?feature=shared
+
+🌱 Y esta página te puede ser muy útil cuando no recuerdes la estructura de algún lenguaje: https://www.w3schools.com/
+
 <!--
 **AndresFelipee05/AndresFelipee05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
