@@ -1,8 +1,11 @@
 ## Hi there 👋
 ![image](https://github.com/user-attachments/assets/8e80a314-904b-4da6-88af-3d7b3670142f)
 Hola, soy Andrés Felipe, un estudiante de programación que le encanta la informática, los videojuegos, y cualquier cosa que esté relacionada.
+
 🔭 Actualmente estoy estudiando el segundo año del ciclo superior de DAM.
+
 ✨ Me gusta mucho programar, tengo un gran conocimiento en Java, principiante en JavaScript y Kotlin.
+
 📫 Para contactar conmigo, puedes hablarme al siguiente correo: aba685106@iesirreymorcillo.es
 
 <!--
