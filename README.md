@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/8e80a314-904b-4da6-88af-3d7b3670142f)
 
 <!--
 **AndresFelipee05/AndresFelipee05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
